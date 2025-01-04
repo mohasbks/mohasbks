@@ -1,4 +1,4 @@
-# <div align="center">Hi there, I'm Motasem Hassan 👋</div>
+# <div align="center">Hi there, I'm Motasem 👋</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="600" height="300"/>
