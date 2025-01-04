@@ -11,7 +11,7 @@
 </p>
 
 ## About Me 🎯
-Aspiring Software Engineer and second-year Computer Science student at Egyptian Russian University. Passionate about crafting efficient solutions through code, with expertise spanning from Frontend Development to Machine Learning. I love taking on challenging projects that push my boundaries and expand my knowledge.
+Aspiring front-end developer and second-year Ai student at Egyptian Russian University. Passionate about crafting efficient solutions through code, with expertise spanning from Frontend Development to Machine Learning. I love taking on challenging projects that push my boundaries and expand my knowledge.
 
 ## 🚀 Featured Projects
 
