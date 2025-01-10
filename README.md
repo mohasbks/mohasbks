@@ -1,9 +1,7 @@
-# <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=2C9DF7&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Motasem+%F0%9F%91%8B;AI+Student;Frontend+Developer;ML+Enthusiast" alt="Typing SVG" />
-</div>
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2C9DF7,100:5D3FD3&height=300&section=header&text=Hi%20there,%20I'm%20Motasem%20👋&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Student%20|%20Frontend%20Developer%20|%20ML%20Enthusiast&descAlignY=55&descAlign=50)](https://github.com/mohasbks)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="500" height="250"/>
 </div>
 
 <div align="center">
@@ -11,6 +9,10 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohasbks&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mohasbks&theme=tokyonight&hide_border=true&background=0D1117" alt="mohasbks"/>
   </a>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ## 🧑‍💻 About Me
