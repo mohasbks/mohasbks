@@ -3,10 +3,6 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2C9DF7&center=true&vCenter=true&width=440&lines=AI+Student+%F0%9F%A7%A0;Frontend+Developer+%F0%9F%8E%A8;Machine+Learning+Enthusiast+%F0%9F%93%8A;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
-</div>
-
-<div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="400" alt="coding animation"/>
 </div>
 
