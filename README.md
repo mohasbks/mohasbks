@@ -1,18 +1,24 @@
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2C9DF7,100:5D3FD3&height=300&section=header&text=Hi%20there,%20I'm%20Motasem%20👋&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Student%20|%20Frontend%20Developer%20|%20ML%20Enthusiast&descAlignY=55&descAlign=50)](https://github.com/mohasbks)
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hi%20there,%20I'm%20Motasem&animation=twinkling&fontSize=40&fontAlignY=35&desc=Crafting%20the%20Future%20with%20AI%20and%20Code&descAlignY=60"/>
+</div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="500" height="250"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2C9DF7&center=true&vCenter=true&width=440&lines=AI+Student+%F0%9F%A7%A0;Frontend+Developer+%F0%9F%8E%A8;Machine+Learning+Enthusiast+%F0%9F%93%8A;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="400" alt="coding animation"/>
 </div>
 
 <div align="center">
   <a href="https://github.com/mohasbks">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohasbks&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mohasbks&theme=tokyonight&hide_border=true&background=0D1117" alt="mohasbks"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=mohasbks&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophy"/>
   </a>
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohasbks&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohasbks&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 ## 🧑‍💻 About Me
@@ -24,8 +30,15 @@ class Motasem:
         self.interests = ["AI", "Frontend Development", "Machine Learning"]
         self.current_year = 2
         
+    def get_skills(self):
+        return {
+            'AI/ML': ['TensorFlow', 'Computer Vision', 'NLP'],
+            'Frontend': ['React', 'JavaScript', 'TypeScript'],
+            'Other': ['Python', 'C++', 'System Design']
+        }
+        
     def say_hi(self):
-        print("Thanks for dropping by! I'm passionate about crafting efficient solutions through code.")
+        print("Thanks for dropping by! Let's create something amazing together! 🚀")
 
 me = Motasem()
 me.say_hi()
@@ -52,37 +65,50 @@ me.say_hi()
 
 ## 💻 Tech Stack
 <div align="center">
-  
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  
+  <img src="https://skillicons.dev/icons?i=js,py,react,tensorflow,cpp,git,vscode,html,css,nodejs&theme=dark" alt="Tech Stack" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohasbks&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 ## 🌱 Currently Learning
-```javascript
-const currentLearning = {
-  frontend: ["Advanced React.js", "Next.js", "TypeScript"],
-  ai_ml: ["Deep Learning", "Computer Vision", "NLP"],
-  other: ["System Design", "Software Architecture"]
-};
-```
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><br/>
+        <sub><b>Advanced React.js</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"><br/>
+        <sub><b>Deep Learning</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100"><br/>
+        <sub><b>System Design</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 📫 Let's Connect
 <div align="center">
-  
-  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohasbks)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:235179@eru.edu.eg)
-  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-  
+  <a href="https://github.com/mohasbks">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:235179@eru.edu.eg">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mohasbks&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
   
-  <i>Let's turn ideas into reality! 🚀</i>
+  <h3>💫 "Code is poetry written in logic" 💫</h3>
 </div>
