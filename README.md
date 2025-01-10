@@ -1,66 +1,86 @@
-# <div align="center">Hi there, I'm Motasem 👋</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="600" height="300"/>
+# <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=2C9DF7&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Motasem+%F0%9F%91%8B;AI+Student;Frontend+Developer;ML+Enthusiast" alt="Typing SVG" />
 </div>
 
-<p align="center">
-  <a href="https://github.com/mohasbks">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2C9DF7&center=true&vCenter=true&width=435&lines=Ai+Student;Frontend+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 
-## About Me 🎯
-Aspiring front-end developer and second-year Ai student at Egyptian Russian University. Passionate about crafting efficient solutions through code, with expertise spanning from Frontend Development to Machine Learning. I love taking on challenging projects that push my boundaries and expand my knowledge.
+<div align="center">
+  <a href="https://github.com/mohasbks">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohasbks&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mohasbks&theme=tokyonight&hide_border=true&background=0D1117" alt="mohasbks"/>
+  </a>
+</div>
+
+## 🧑‍💻 About Me
+```python
+class Motasem:
+    def __init__(self):
+        self.role = "AI Student & Frontend Developer"
+        self.education = "Egyptian Russian University"
+        self.interests = ["AI", "Frontend Development", "Machine Learning"]
+        self.current_year = 2
+        
+    def say_hi(self):
+        print("Thanks for dropping by! I'm passionate about crafting efficient solutions through code.")
+
+me = Motasem()
+me.say_hi()
+```
 
 ## 🚀 Featured Projects
 
-### [AI Image Generator](https://github.com/mohasbks/ai-image-generator) 🎨
-
-
-### [Monkey Type Clone](https://github.com/mohasbks/monkey-type-clone) ⌨️
-
-
-### [Dog-Cat Sound Classification](https://github.com/mohasbks/dog-cat-sound-classification) 🐱🐕
-
-### [Temporary Email Service](https://github.com/mohasbks/temp-email-service) 📧
-
-### [Library Management System](https://github.com/mohasbks/library-management-system) 📚
+<div align="center">
+  <a href="https://github.com/mohasbks/ai-image-generator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohasbks&repo=ai-image-generator&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/mohasbks/monkey-type-clone">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohasbks&repo=monkey-type-clone&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/mohasbks/dog-cat-sound-classification">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohasbks&repo=dog-cat-sound-classification&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/mohasbks/temp-email-service">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohasbks&repo=temp-email-service&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+</div>
 
 ## 💻 Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-</p>
-
-## 📊 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohasbks&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mohasbks&theme=tokyonight" alt="mohasbks"/>
-</p>
+<div align="center">
+  
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohasbks&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117" alt="Top Languages" />
+</div>
 
 ## 🌱 Currently Learning
-- Advanced React.js Concepts
-- Machine Learning & Deep Learning
-- System Design & Architecture
+```javascript
+const currentLearning = {
+  frontend: ["Advanced React.js", "Next.js", "TypeScript"],
+  ai_ml: ["Deep Learning", "Computer Vision", "NLP"],
+  other: ["System Design", "Software Architecture"]
+};
+```
 
-## 📫 Connect With Me
-<p align="center">
-  <a href="https://github.com/mohasbks">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:235179@eru.edu.eg">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+## 📫 Let's Connect
+<div align="center">
+  
+  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohasbks)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:235179@eru.edu.eg)
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+  
+</div>
 
 ---
-<p align="center">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=mohasbks&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
-</p>
-<p align="center">
-  <i>Let's build something amazing together! 🚀</i>
-</p>
+  
+  <i>Let's turn ideas into reality! 🚀</i>
+</div>
