@@ -23,7 +23,7 @@ class Motasem:
         self.role = "AI Student & Frontend Developer"
         self.education = "Egyptian Russian University"
         self.interests = ["AI", "Frontend Development", "Machine Learning"]
-        self.current_year = 2
+        self.current_year = 3
         
     def get_skills(self):
         return {
