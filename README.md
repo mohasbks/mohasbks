@@ -4,6 +4,10 @@
 <h3 align="center">AI Student • Frontend Developer • ML Enthusiast</h3>
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Motasem&fontSize=50&fontAlignY=35" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+innovative+solutions+with+code;AI+%26+Frontend+Developer;Turning+ideas+into+reality+🚀" />
 </p>
 
@@ -89,8 +93,10 @@ print(me.say_hi())
 
 ## 🐍 Contribution Snake
 
+> ⚠️ If the snake is not visible yet, follow the steps below to enable it.
+
 <p align="center">
-  <img src="https://github.com/mohasbks/mohasbks/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/mohasbks/mohasbks/output/github-contribution-grid-snake.svg" alt="contribution snake" />
 </p>
 
 ---
