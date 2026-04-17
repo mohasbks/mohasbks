@@ -1,148 +1,121 @@
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                                                                                 -->
-<!--   ███╗   ███╗ ██████╗ ████████╗ █████╗ ███████╗███████╗███╗   ███╗              -->
-<!--   ████╗ ████║██╔═══██╗╚══██╔══╝██╔══██╗██╔════╝██╔════╝████╗ ████║              -->
-<!--   ██╔████╔██║██║   ██║   ██║   ███████║███████╗█████╗  ██╔████╔██║              -->
-<!--   ██║╚██╔╝██║██║   ██║   ██║   ██╔══██║╚════██║██╔══╝  ██║╚██╔╝██║              -->
-<!--   ██║ ╚═╝ ██║╚██████╔╝   ██║   ██║  ██║███████║███████╗██║ ╚═╝ ██║              -->
-<!--   ╚═╝     ╚═╝ ╚═════╝    ╚═╝   ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝     ╚═╝              -->
-<!--                                                                                 -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-<!-- Animated Header -->
-<h1 align="center">Hi 👋 I'm Motasem Bellah</h1>
-<h3 align="center">AI Engineer • Frontend Developer • Builder of Ideas</h3>
+<h1 align="center">Motasem Bellah</h1>
+<h3 align="center">AI Engineer • Frontend Developer • Building Real-World Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Artificial+Intelligence+Engineer;Frontend+Architect;System+Builder;Deep+Learning+Explorer;Founder+of+Rowad&center=true&width=500&height=45">
+  <a href="mailto:235179@eru.edu.eg">Email</a> •
+  <a href="https://linkedin.com/in/mohasbks">LinkedIn</a> •
+  <a href="https://almotasembellah-portofolio.vercel.app">Portfolio</a>
 </p>
 
 ---
 
-## 🧠 About Me
+## 🚀 About Me
 
-I don’t just write code.  
-I build systems.  
-I build ideas.  
-I build things that outlive lines of syntax.
+AI student focused on building **real-world intelligent systems** and **scalable web applications**.
 
-Artificial Intelligence student driven by **curiosity, discipline, and obsession with meaningful technology**.
+I specialize in:
 
-For me, programming is not about features.  
-It’s about impact.  
-It’s about turning abstract thoughts into living systems.
+* 🤖 Applied Artificial Intelligence (Computer Vision & Deep Learning)
+* 🎨 Interactive and performant frontend systems
+* ⚙️ Turning ideas into production-ready products
 
----
-
-## ⚡ Philosophy
-
-> Technology is powerful not because it is complex —  
-> but because it solves real problems.
-
-AI is not magic.  
-It is responsibility.
-
-Code is not just instructions —  
-it is architecture for the future.
+I don't build tutorial projects — I build systems designed to be used.
 
 ---
 
-## 🚀 What I Build
+## 🧠 Featured Projects
 
-- 🤖 Intelligent AI systems  
-- 🧠 Deep Learning & Computer Vision solutions  
-- 🎨 Clean, scalable frontend architectures  
-- 🏗️ Real products — not tutorial projects  
+### 🖥 Windows XP Interactive Portfolio
 
----
+A fully interactive OS-like portfolio experience.
 
-## 🛠 Tech Arsenal
+**Highlights:**
 
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,java" />
-</p>
+* Desktop simulation with window management
+* Terminal (CMD) system
+* Retro UI with modern architecture
 
-### 🧠 AI / ML
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
-
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
-</p>
-
-### 🧰 Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,docker,vscode,figma" />
-</p>
+🔗 Live Demo: https://almotasembellah-portofolio.vercel.app
 
 ---
 
-# 🌱 Rowad
+### 🤖 AI Image Generator
 
-## Not a Platform. A Movement.
+Generate images using Hugging Face models with a clean web interface.
 
-Rowad is not a freelance platform.  
-It is a statement.
+**Features:**
 
-A statement that talent should not be taxed.  
-A statement that opportunity should not be gatekept.  
-
-> If you remove friction, creativity explodes.
-
-Rowad empowers students, developers, and builders  
-to collaborate without artificial barriers.
-
-It is still growing.  
-But so are we.  
-
-And growth is the real product.
+* Prompt-based image generation
+* API integration with fast response
+* Simple and usable UI
 
 ---
 
-## 📊 GitHub Analytics
+### 📈 RSI Trading Alert Bot
+
+A smart trading assistant based on RSI strategy.
+
+**Features:**
+
+* Real-time alerts
+* Strategy-based signals
+* قابل للتطوير بإضافة AI لاحقًا
+
+---
+
+## 🛠 Tech Stack
+
+**Languages:**
+Python • JavaScript • TypeScript • C++ • Java
+
+**AI / ML:**
+TensorFlow • PyTorch • Computer Vision
+
+**Frontend:**
+React • Next.js • Tailwind • HTML • CSS
+
+**Tools:**
+Git • Docker • Figma • VS Code
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohasbks&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohasbks&show_icons=true&hide_border=true" />
 </p>
+
+---
+
+## 🌱 Current Focus
+
+* Building advanced AI-powered applications
+* Multi-modal systems (Vision + Text)
+* Scaling real products (Rowad)
+* Improving system design skills
+
+---
+
+## 🚀 Rowad
+
+A platform focused on removing barriers between talent and opportunity.
+
+* No unnecessary fees
+* Focus on real collaboration
+* Built for students & developers
+
+Currently in development.
+
+---
+
+## 📬 Contact
+
+* Email: [235179@eru.edu.eg](mailto:235179@eru.edu.eg)
+* LinkedIn: https://linkedin.com/in/mohasbks
+* Portfolio: https://almotasembellah-portofolio.vercel.app
+
+---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohasbks&theme=tokyonight&hide_border=true" />
+  <b>Build real systems. Solve real problems.</b>
 </p>
-
----
-
-## 🧠 Current Focus
-
-- 🔬 Advanced AI architectures  
-- 🧠 Multi-modal deep learning systems  
-- ⚙️ Scalable system design  
-- 🚀 Scaling Rowad  
-
----
-
-## 📬 Connect With Me
-
-<p align="center">
-  <a href="mailto:235179@eru.edu.eg">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-  </a>
-  <a href="https://linkedin.com/in/mohasbks">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="https://almotasembellah-portofolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel">
-  </a>
-</p>
-
----
-
-<div align="center">
-
-### ✨ Build things that matter.  
-### Build them well.  
-### Build them with purpose.
-
-</div>
