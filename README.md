@@ -35,7 +35,7 @@ A fully interactive OS-like portfolio experience.
 * Terminal (CMD) system
 * Retro UI with modern architecture
 
-🔗 Live Demo: https://almotasembellah-portofolio.vercel.app
+🔗 Live Demo: https://windows-xp-portfolio-ivory.vercel.app/
 
 ---
 
@@ -59,7 +59,6 @@ A smart trading assistant based on RSI strategy.
 
 * Real-time alerts
 * Strategy-based signals
-* قابل للتطوير بإضافة AI لاحقًا
 
 ---
 
