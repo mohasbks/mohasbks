@@ -89,15 +89,34 @@ A strategy-based trading assistant that monitors market signals in real time.
 
 ---
 
-### 🎓 Virtual Classroom Platform *(In Progress)*
-A full-featured e-learning system built for scale.
+### 🏓 Classic Pong Game
+A modern recreation of the classic arcade game — built entirely with vanilla web technologies, no libraries.
 
-**Stack:** Flutter · NestJS · PostgreSQL · Agora WebRTC · Stripe · AWS
+**Stack:** HTML5 Canvas · CSS3 · JavaScript · Web Audio API
 
 **Highlights:**
-- Real-time video sessions with Agora
-- Stripe payment integration
-- Modular NestJS backend architecture
+- 3 difficulty levels with progressive ball speed scaling
+- Full 8-bit audio system: paddle hits, wall bounces, score sounds, game-over theme — all generated via Web Audio API (no audio files)
+- Retro black & white aesthetic with glowing CSS animations
+- Runs at 60 FPS with a 16ms update loop
+- Responsive across all screen sizes and modern browsers
+
+🔗 **[Live Demo](https://classic-pong-game-tawny.vercel.app)**
+
+---
+
+### 🌌 Your Life in Numbers
+An emotional awareness experience that transforms your age into raw, visceral numbers.
+
+**Stack:** Vue 3 · TypeScript · Vite · CSS Animations
+
+**Highlights:**
+- Enter your birthdate — get back the numbers that define your existence: days lived, heartbeats, breaths taken, seconds elapsed
+- Typewriter effect with space background creates a meditative, reflective atmosphere
+- Typing sound design reinforces the experience's emotional weight
+- Built not as a utility — but as a reminder
+
+🔗 **[Live Demo](https://your-life-in-numbers.vercel.app)**
 
 ---
 
@@ -170,7 +189,6 @@ Friction is the enemy of creation.
 
 ## 🎯 Current Focus
 
-- 🔬 Arabic LLM Reasoning Benchmark — distinguishing real reasoning from memorization *(graduation research)*
 - 🧠 Multi-modal AI systems (Vision + Language)
 - ⚙️ Scalable system design & distributed architecture
 - 🚀 Building Rowad toward its first release
