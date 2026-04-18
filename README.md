@@ -93,7 +93,7 @@ I am an Artificial Intelligence engineering student with a deep passion for buil
       <h3>🌌 Your Life in Numbers</h3>
       <p>An emotional awareness experience transforming your age into raw data: days lived, heartbeats, breaths taken. Built to be a reminder, not a utility.</p>
       <p><b>Stack:</b> <code>Vue 3</code> <code>TypeScript</code> <code>Vite</code></p>
-      <a href="#">🔗 Live Demo</a> <!-- Add your actual link here -->
+      <a href="https://your-life-in-numbers.vercel.app/">🔗 Live Demo</a> <!-- Add your actual link here -->
     </td>
   </tr>
 </table>
