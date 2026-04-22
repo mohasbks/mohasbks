@@ -73,7 +73,7 @@ I am an Artificial Intelligence engineering student with a deep passion for buil
       <h3>🖥️ Windows XP Interactive Portfolio</h3>
       <p>A fully interactive OS-like portfolio experience built with modern architecture under a retro shell. Features functional CMD, window management, and a 3D desk scene.</p>
       <p><b>Stack:</b> <code>Next.js 14</code> <code>Zustand</code> <code>Three.js</code> <code>Framer Motion</code></p>
-      <a href="https://almotasembellah-portofolio.vercel.app/" target="_blank">🔗 Live Demo</a> • <a href="https://github.com/mohasbks/windows-xp-portfolio">Source Code</a>
+      <a href="https://windows-xp-portfolio-ivory.vercel.app/" target="_blank">🔗 Live Demo</a> • <a href="https://github.com/mohasbks/windows-xp-portfolio">Source Code</a>
     </td>
     <td width="50%" valign="top">
       <h3>🤖 AI Image Generator</h3>
